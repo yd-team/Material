@@ -13,3 +13,4 @@ Material
 * [t.tt的滚动](http://www.smartisan.com/#/design)
 * [小猪猪](http://e.xingdian.com/savings/)
 * [hover效果](http://codecloud.net/show/HoverEffectIdeas/HoverEffectIdeas/index.html)
+* [图片滚动特效](http://www.jssor.com/demos/image-gallery.html)
