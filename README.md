@@ -14,3 +14,4 @@ Material
 * [小猪猪](http://e.xingdian.com/savings/)
 * [hover效果](http://codecloud.net/show/HoverEffectIdeas/HoverEffectIdeas/index.html)
 * [图片滚动特效](http://www.jssor.com/demos/image-gallery.html)
+* [zepto-slitslider](https://github.com/cyclegtx/zepto-slitslider/tree/master/js)
