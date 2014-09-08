@@ -16,3 +16,4 @@ Material
 * [图片滚动特效](http://www.jssor.com/demos/image-gallery.html)
 * [zepto-slitslider](https://github.com/cyclegtx/zepto-slitslider/tree/master/js)
 * [gif.js](https://github.com/jnordberg/gif.js)
+* [shine.js阴影效果](http://bigspaceship.github.io/shine.js/)
