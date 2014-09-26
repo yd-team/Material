@@ -20,3 +20,4 @@ Material
 * [Favicon checker](http://realfavicongenerator.net)
 * [Headroom.js](http://wicky.nillia.ms/headroom.js/)
 * [videojs](http://www.videojs.com/)
+* [spin.js](http://fgnass.github.io/spin.js/)
