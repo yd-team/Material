@@ -21,3 +21,6 @@ Material
 * [Headroom.js](http://wicky.nillia.ms/headroom.js/)
 * [videojs](http://www.videojs.com/)
 * [spin.js](http://fgnass.github.io/spin.js/)
+* [simple-expand](http://sylvain-hamel.github.io/simple-expand/)
+* [jquery-ajaxchimp](https://github.com/scdoshi/jquery-ajaxchimp)
+* [fitvidsjs](http://fitvidsjs.com/)
