@@ -24,3 +24,4 @@ Material
 * [simple-expand](http://sylvain-hamel.github.io/simple-expand/)
 * [jquery-ajaxchimp](https://github.com/scdoshi/jquery-ajaxchimp)
 * [fitvidsjs](http://fitvidsjs.com/)
+* [Resemble.js](http://huddle.github.io/Resemble.js/)
