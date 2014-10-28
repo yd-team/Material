@@ -26,3 +26,4 @@ Material
 * [fitvidsjs](http://fitvidsjs.com/)
 * [Resemble.js](http://huddle.github.io/Resemble.js/)
 * [csslint](http://csslint.net/)
+* [clippy - clip-path maker](http://bennettfeely.com/clippy/)
