@@ -27,3 +27,4 @@ Material
 * [Resemble.js](http://huddle.github.io/Resemble.js/)
 * [csslint](http://csslint.net/)
 * [clippy - clip-path maker](http://bennettfeely.com/clippy/)
+* [fastclick - Polyfill to remove click delays on browsers with touch UIs](https://github.com/ftlabs/fastclick)
