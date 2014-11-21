@@ -30,3 +30,4 @@ Material
 * [fastclick - Polyfill to remove click delays on browsers with touch UIs](https://github.com/ftlabs/fastclick)
 * [store.js](https://github.com/marcuswestin/store.js)
 * [box-shadow online](http://www.css88.com/tool/css3Preview/Box-Shadow.html)
+* [jFeed - jQuery RSS/ATOM feed parser plugin](https://github.com/jfhovinne/jFeed)
