@@ -32,3 +32,4 @@ Material
 * [box-shadow online](http://www.css88.com/tool/css3Preview/Box-Shadow.html)
 * [jFeed - jQuery RSS/ATOM feed parser plugin](https://github.com/jfhovinne/jFeed)
 * [alertify](http://fabien-d.github.io/alertify.js/)
+* [lining](http://zencode.in/lining.js/#demo-5)
