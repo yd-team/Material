@@ -33,3 +33,4 @@ Material
 * [jFeed - jQuery RSS/ATOM feed parser plugin](https://github.com/jfhovinne/jFeed)
 * [alertify](http://fabien-d.github.io/alertify.js/)
 * [lining](http://zencode.in/lining.js/#demo-5)
+* [上下跳的树皮](http://www.sinaimg.cn/rny/sinamail57/images/140711/guide/guideRedIco.gif?v=12041814)
